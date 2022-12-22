@@ -1,0 +1,192 @@
+/* All */
+
+h1 {
+  font-size: 60px;
+  margin: 40px auto 40px;
+}
+h2 {
+  font-size: 40px;
+}
+li.nav {
+  display: inline-block;
+  box-sizing: border-box;
+  margin: 0px 30px;
+  font-size: 26px;
+  margin: 0 20px 40px;
+  min-width: 140px;
+}
+body {
+  font-family: "Open Sans", sans-serif;
+  min-width: 1000px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.active_a {
+  color: red;
+}
+img {
+  width: 500px;
+}
+header {
+  text-align: center;
+}
+.nav_bar {
+  min-width: 1000px;
+}
+
+p {
+  font-size: 24px;
+}
+/* Home */
+
+.kotik {
+  text-align: center;
+}
+
+/* Colors */
+
+.colors-container {
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container-common {
+  border-radius: 2px;
+  text-transform: capitalize;
+}
+
+.black {
+  display: inline-block;
+  background-color: black;
+  color: white;
+  font-size: 24px;
+  width: 45%;
+  height: 45%;
+  margin: 10px 5px;
+}
+.grey {
+  display: inline-block;
+  background-color: grey;
+  font-size: 24px;
+  width: 45%;
+  height: 45%;
+  margin: 10px 5px;
+}
+.yellow {
+  display: inline-block;
+  background-color: yellow;
+  font-size: 24px;
+  width: 45%;
+  height: 45%;
+  margin-right: 10px;
+}
+.red {
+  display: inline-block;
+  background-color: red;
+  font-size: 24px;
+  width: 45%;
+  height: 45%;
+}
+.p-color {
+  margin: 12%;
+}
+.bold {
+  font-weight: 700;
+}
+
+/* Fonts */
+
+.fonts_box {
+  border: 3px solid black;
+  margin: 0 auto;
+  width: 1250px;
+}
+.ex_t_container {
+  display: inline-block;
+  width: 30%;
+  margin: 10px 5px;
+  min-height: 260px;
+}
+#fonts_suptitle {
+  text-align: left;
+  margin: 10px 5px;
+}
+
+.font_name {
+  font-size: 30px;
+  margin: 10px 5px 15px;
+  min-width: 250px;
+  text-decoration: underline;
+}
+
+.example_text {
+  margin: 10px 5px;
+}
+/* OS */
+
+/* Roboto */
+
+.roboto {
+  font-family: "Roboto Slab", serif;
+}
+
+/* Dancing Script */
+
+.ds.ex_t_container {
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+}
+
+/* Text Styles */
+
+.text_styles_container {
+  border: 3px solid black;
+  margin: 0 auto;
+  width: 1250px;
+}
+.ts_suptitle {
+  padding: 1%;
+}
+.styles_description {
+  box-sizing: border-box;
+  height: 33%;
+  padding: 1%;
+}
+.specifications {
+  font-size: 24px;
+  margin: 0.5%;
+}
+
+.h1_styles {
+  font-weight: 400px;
+  font-size: 60px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.h2_styles {
+  font-weight: 400px;
+  font-size: 40px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.p_styles {
+  font-weight: 400px;
+  font-size: 24px;
+  font-family: "Open Sans", sans-serif;
+}
+
+.styles_description li {
+  list-style-type: disc;
+}
+
+li.specifications {
+  margin-left: 60px;
+}
+
+.styles_description ul {
+  margin-top: 15px;
+}
